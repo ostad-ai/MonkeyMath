@@ -33,7 +33,7 @@ Other **key points** about the game:
 <table>
   <tr>
 
-<td><img src="Media/ver-0-0-0-0.jpg.png" alt="A snapshot of the game: MonkeyMath, version 0.0.0.0, level one" width="400"/>
+<td><img src="Media/ver-0-0-0-0.jpg" alt="A snapshot of the game: MonkeyMath, version 0.0.0.0, level one" width="400"/>
 Figure 1: A snapshot of MonkeyMath Game at level one, version 0.0.0.0, while playing the game.</td>
     
 <td><img src="Media/ver-0-0-0-0-alt.jpg" alt="A snapshot of the game: MonkeyMath, version 0.0.0.0, level 10" width="400"/>
