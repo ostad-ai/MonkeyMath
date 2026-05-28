@@ -41,4 +41,5 @@ Figure 2: A snapshot of MonkeyMath Game at level 10, version 0.0.0.0, while play
 
   </tr>
 </table>
+
 ---
