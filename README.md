@@ -163,11 +163,11 @@ If you enjoy Monkey Math, please consider **starring ⭐ this GitHub repository*
 <tr>
 <td>
 <img src="Media/ver-0-2.jpg" alt="A snapshot of the game: MonkeyMath, version 0.2" width="400"/>
-    Figure 3: A snapshot of MonkeyMath Game, version 0.2, while playing the game in **Adventure Mode**.
+    Figure 3: A snapshot of MonkeyMath Game, version 0.2, while playing the game in <b>Adventure Mode</b>.
 </td>
 <td>
 <img src="Media/ver-0-2a.jpg" alt="A snapshot of the game: MonkeyMath, version 0.2" width="400"/>
-    Figure 4: A snapshot of MonkeyMath Game, version 0.2, while playing the game in **Boss Battle**.
+    Figure 4: A snapshot of MonkeyMath Game, version 0.2, while playing the game in <b>Boss Battle</b>.
 </td>
 </td>
 </tr>
